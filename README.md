@@ -1,6 +1,8 @@
 ## Hello, I'm Facundo Ayala. 👋🏾
 
-<img src="https://raw.githubusercontent.com/KelsonMartins/KelsonMartins/main/gh-header-image-cropped.png" alt="top banner">
+<img src="https://raw.githubusercontent.com/KelsonMartins/KelsonMartins/main/gh-header-image-cropped-alt.png" alt="top banner">
+
+<br/>
 
 I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies, with over 5 years of career experience in the IT sector, within different Industries. From Parking, eCommerce and Retail to Global Supply Chain.
 
