@@ -6,7 +6,7 @@
 
 I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies, with over 5 years of career experience in the IT sector, within different Industries. From Parking, eCommerce and Retail to Global Supply Chain.
 
-- 🌱 I’m currently learning **scala and data analytics, amongst a good number of other things.**
+- 🌱 I’m currently learning **GO, scala and data analytics, amongst a good number of other things.**
 - 💬 Ask me about **anything.**
 - ⚡ Fun fact: **Personally, I'm defined as being a very determined, driven, proactive and self-motivated individual, who's keen to learn new things every day, with a can-do attitude towards problem solving and a high sense of responsibility.**
 
