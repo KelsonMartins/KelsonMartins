@@ -4,7 +4,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/KelsonMartins/KelsonMartins/main/octocat-alt.png" alt="octocat-image" width=50% height=auto>
 
-I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies, with over 5 years of career experience in the IT sector, within different Industries. From Parking, eCommerce and Retail to Global Supply Chain.
+I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies, with over 10 years of career experience in the IT sector, within different Industries. From Parking, eCommerce and Retail to Global Supply Chain.
 
 - 🌱 I’m currently learning **GO, scala and data analytics, amongst a good number of other things.**
 - 💬 Ask me about **anything.**
