@@ -12,4 +12,4 @@ I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies,
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@KelsonM) 
 [![Wise](https://img.shields.io/badge/Wise-9FE870?style=for-the-badge&logo=wise&logoColor=black)](https://wise.com/pay/me/kelsonm1)
 
-![](https://streak-stats.demolab.com/?user=KelsonMartins&theme=dark&hide_border=true) ![](https://github-readme-stats.shion.dev/api?username=KelsonMartins&theme=dark&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KelsonMartins&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KelsonMartins&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![](https://streak-stats.demolab.com/?user=KelsonMartins&theme=dark&hide_border=true) ![](https://github-readme-stats.shion.dev/api?username=KelsonMartins&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
