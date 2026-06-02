@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/ccc885a6-9172-43ea-8d57-6ef56f2cc6fc" alt="octocat-image" width=55% height=auto>
 
-I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies, with over 15 years of career experience in the IT sector, within different Industries. From Parking, eCommerce and Retail to Global Supply Chain. Security and Manufacturing.
+I'm a Multimedia Engineer, specialised in Computer Science and Web Technologies, with over 15 years of career experience in the IT sector, within different Industries. From Parking, eCommerce and Retail to Global Supply Chain, Security and Manufacturing.
 
-- 🌱 I’m currently learning **Go, Scala and data analytics, amongst a good number of other things.**
+- 🌱 I’m currently learning **Go, Scala and data analytics, amongst a good number of other things (Aspire & some AI).**
 - 💬 Ask me about **anything.**
 - ⚡ Fun fact: **Personally, I'm defined as being a very determined, driven, proactive and self-motivated individual, who's keen to learn new things every day, with a can-do attitude towards problem solving and a high sense of responsibility.**
 
